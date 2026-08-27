@@ -1,0 +1,9 @@
+{
+  "ultima_atualizacao": null,
+  "universidades": [
+    {"universidade":"USP (FUVEST)","url":"https://www.fuvest.br/olimpiadas/","previsao":"Ciclo 2026: 05–16/01/2026; 2027 ainda depende de edital oficial.","status":"Aguardando Edital 2027","termo_identificado":null,"edital_url":null,"inscricao_url":null},
+    {"universidade":"UNICAMP (Comvest)","url":"https://www.comvest.unicamp.br/ingresso-2026/vagas-olimpicas-2026/","previsao":"Usualmente publicado no fim do ano anterior; confirme no edital 2027.","status":"Aguardando Edital 2027","termo_identificado":null,"edital_url":null,"inscricao_url":null},
+    {"universidade":"UFC (PROGRAD)","url":"https://olimpiadas.prograd.ufc.br/","previsao":"Ciclo 2026: 06–12/01/2026; 2027 ainda depende de edital oficial.","status":"Aguardando Edital 2027","termo_identificado":null,"edital_url":null,"inscricao_url":null},
+    {"universidade":"UNESP (VUNESP)","url":"https://www.vunesp.com.br/","previsao":"Acompanhe a página oficial da VUNESP; não há data oficial 2027 confirmada.","status":"Aguardando Edital 2027","termo_identificado":null,"edital_url":null,"inscricao_url":null}
+  ]
+}
