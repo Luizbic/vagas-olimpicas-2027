@@ -1,5 +1,5 @@
 {
-  "ultima_atualizacao": "2026-08-29T15:59:01.076864+00:00",
+  "ultima_atualizacao": "2026-08-30T02:44:02.494039+00:00",
   "universidades": [
     {
       "universidade": "USP (FUVEST)",
@@ -9,7 +9,7 @@
       "termo_identificado": null,
       "edital_url": null,
       "inscricao_url": null,
-      "ultima_verificacao": "2026-08-29T15:59:01.076864+00:00",
+      "ultima_verificacao": "2026-08-30T02:44:02.494039+00:00",
       "novidade_nova": false
     },
     {
@@ -20,7 +20,7 @@
       "termo_identificado": "vagas olímpicas 2027 vagas remanescentes 2027 provão paulista 2027 profis vagas para estrangeiros 2027",
       "edital_url": "https://www.comvest.unicamp.br/wp-content/uploads/2025/10/Edital-Vagas-Olimpicas-2026.pdf",
       "inscricao_url": "https://www.comvest.unicamp.br/inova-unicamp-abre-inscricoes-para-competicao-de-empreendedorismo-jovem/",
-      "ultima_verificacao": "2026-08-29T15:59:01.076864+00:00",
+      "ultima_verificacao": "2026-08-30T02:44:02.494039+00:00",
       "novidade_nova": false
     },
     {
@@ -31,7 +31,7 @@
       "termo_identificado": null,
       "edital_url": null,
       "inscricao_url": null,
-      "ultima_verificacao": "2026-08-29T15:59:01.076864+00:00",
+      "ultima_verificacao": "2026-08-30T02:44:02.494039+00:00",
       "novidade_nova": false
     },
     {
@@ -42,7 +42,7 @@
       "termo_identificado": null,
       "edital_url": null,
       "inscricao_url": null,
-      "ultima_verificacao": "2026-08-29T15:59:01.076864+00:00",
+      "ultima_verificacao": "2026-08-30T02:44:02.494039+00:00",
       "erro": "Falha ao acessar a página: 403 Client Error: Forbidden for url: https://www.vunesp.com.br/",
       "novidade_nova": false
     }
